@@ -23,3 +23,5 @@ video_31_curso_ruby.title = "Atributos"
 puts video_30_curso_ruby.title
 
 puts video_31_curso_ruby.title
+
+puts video_31_curso_ruby.title
