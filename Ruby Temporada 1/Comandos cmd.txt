@@ -1,0 +1,5 @@
+cls borrar
+cd entrar en carpeta
+ruby Ejecutar archivo de ruby
+irb Entrar en la consola de ruby
+exit Salir
